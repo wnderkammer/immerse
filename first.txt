@@ -1,2 +1,3 @@
 Hello
 This is NewBe 
+and Edit text
